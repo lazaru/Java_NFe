@@ -40,6 +40,8 @@ public class ConfiguracoesNfe {
     private boolean contigenciaSCAN;
     private boolean validacaoDocumento = true;
     private String arquivoWebService;
+    private Mock mockStubs;
+    private boolean mockedResult;
     private Integer retry;
 
     /**
