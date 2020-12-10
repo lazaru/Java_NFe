@@ -2,6 +2,7 @@
 /.classpath
 /.settings/
 /.project
+/.settings.xml
 /AtualizarProjetoOriginal.txt
 /target\generated-sources\annotations/
 /target\generated-test-sources\test-annotations/
